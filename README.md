@@ -1,6 +1,6 @@
 ## Yello 🙋‍♂️
 
-I'm Rashmi Daswaththa, a Software Engineer undergraduate at SLIIT, Sri Lanka.
+I'm Rashmi Daswaththa, a Software Engineering undergraduate at SLIIT, Sri Lanka.
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=rashmidaswaththa&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashmidaswaththa&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
