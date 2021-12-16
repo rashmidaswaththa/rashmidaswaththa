@@ -2,13 +2,13 @@
 
 I'm Rashmi Daswaththa, a Software Engineer undergraduate at SLIIT, Sri Lanka.
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=pasindumarasinghe&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pasindumarasinghe&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=rashmidaswaththa&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashmidaswaththa&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 ## My contributions 🎈
-![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=pasindumarasinghe&hide_border=true&theme=redical)
-![github contribution grid snake animation](https://raw.githubusercontent.com/pasindumarasinghe/pasindumarasinghe/output/github-contribution-grid-snake.svg)
+![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rashmidaswaththa&hide_border=true&theme=redical)
+![github contribution grid snake animation](https://raw.githubusercontent.com/rashmidaswaththa/rashmidaswaththa/output/github-contribution-grid-snake.svg)
 
 ## Contact me ☎
 
