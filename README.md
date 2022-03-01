@@ -13,9 +13,9 @@ I'm Rashmi Daswaththa, a Software Engineering undergraduate at SLIIT, Sri Lanka.
 ## Contact me ☎
 
 [<img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>](mailto:e17207@eng.pdn.ac.lk)
-[<img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>](linkedin.com/in/pasindu-marasinghe)
-[<img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/>](https://t.me/pasindugm)
-[<img src="https://img.icons8.com/fluency/48/000000/domain.png"/>](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
+[<img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>](www.linkedin.com/in/rashmi-daswaththa-855a50227)
+[<img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/>]()
+
 <!--
 **rashmidaswaththa/rashmidaswaththa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
