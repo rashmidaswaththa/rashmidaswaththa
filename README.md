@@ -12,8 +12,8 @@ I'm Rashmi Daswaththa, a Software Engineering undergraduate at SLIIT, Sri Lanka.
 
 ## Contact me ☎
 
-[<img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>](rashmidaswaththa@gmail.com)
-[<img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>](www.linkedin.com/in/rashmi-daswaththa)
+[<img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>](mailto:rashmidaswaththa@gmail.com)
+[<img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>](www.linkedin.com/in/rashmi-daswaththa-855a50227)
 [<img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/>]()
 
 <!--
