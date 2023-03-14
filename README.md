@@ -6,11 +6,6 @@ I'm Rashmi Daswaththa, a Software Engineering undergraduate at Sri Lanka Institu
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashmidaswaththa&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-My contributions ✨
-
-![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rashmidaswaththa&hide_border=true&theme=redical)
-
-
 Contact me ☎
 
 [<img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>](mailto:rashmidaswaththa@gmail.com)
